@@ -151,6 +151,6 @@ btn6Params.addRule(RelativeLayout.LEFT_OF, R.id.btn5);
 btn6.setLayoutParams(btn6Params);
 ```
 
-Final Result..
+## Final Result..
 <img src="https://github.com/Znergy/dynamic-android-for-various-screen-sizes/blob/master/app/src/main/res/drawable/finalresult.png" alt="Final Result" style="width: 20%; height: 20%;"/>
 
