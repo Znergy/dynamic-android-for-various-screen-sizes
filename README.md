@@ -3,7 +3,7 @@
 #### By: Ryan Jones
 #### Date: 06/25/2017
 
-### Google Doc: https://docs.google.com/document/d/156tvgPxx0o7WsyVf394hrt6NM92XxSI6w8Nr2IJHSJU/edit?usp=sharing
+### Google Doc: [Link to Document](https://docs.google.com/document/d/156tvgPxx0o7WsyVf394hrt6NM92XxSI6w8Nr2IJHSJU/edit?usp=sharing)
 
 ## Description
 This is a tutorial for creating dynamic views in Android that will adjust based off the screen size the user is loading your app on.
