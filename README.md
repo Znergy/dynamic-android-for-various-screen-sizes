@@ -154,4 +154,5 @@ btn6.setLayoutParams(btn6Params);
 Final Result..
 
 ![Final Result](https://github.com/Znergy/dynamic-android-for-various-screen-sizes/blob/master/app/src/main/res/drawable/finalresult.png)
+<img src="https://github.com/Znergy/dynamic-android-for-various-screen-sizes/blob/master/app/src/main/res/drawable/finalresult.png" alt="Final Result" style="width: 200px; height: 400px;"/>
 
